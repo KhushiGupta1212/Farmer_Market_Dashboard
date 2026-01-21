@@ -1,44 +1,42 @@
 # Farmer_Market_Dashboard
-Quantity-wise Sales Analysis Dashboard (Power BI)
-📌 Project Overview
+Quantity-Wise Sales Analysis Dashboard (Power BI)
 
-This project presents a Power BI dashboard designed to analyze product sales quantities across customers, vendors, and products. The dashboard helps stakeholders understand purchasing patterns, vendor contributions, and product performance through interactive visualizations.
+🚀 An interactive Power BI dashboard designed to analyze sales quantity across products, vendors, and customers for better business insights.
 
-Objectives
+🌟 Project Overview
 
---Analyze total quantity sold by product, vendor, and customer
+This project focuses on understanding quantity-wise sales performance using interactive visualizations and DAX measures. It helps identify top products, key vendors, and customer purchasing behavior in a simple and intuitive way.
 
---Identify top-performing products and vendors
+🎯 Objectives
 
---Understand customer purchasing behavior
-
---Enable data-driven decision-making using interactive filters
+✅ Analyze total quantity sold
+✅ Compare product and vendor performance
+✅ Understand customer purchase patterns
+✅ Enable data-driven decision-making
 
 🛠 Tools & Technologies
 
-*Power BI Desktop
+📊 Power BI Desktop
 
-*DAX (Data Analysis Expressions)
+🧮 DAX (Data Analysis Expressions)
 
-*Data Modeling
+📄 Excel / CSV Data
 
-*Microsoft Excel / CSV (Data Source)
+🔗 Data Modeling
 
-*Power Bi query editor
+🔗 Dashboard Visualizations
 
-*Dashboard Visualizations
+📈 Dashboard Features
 
-#The dashboard includes the following visuals:
+📌 Visualizations Included
 
---Pie Chart – Quantity distribution by product name
+🥧 Pie Chart – Quantity by Product
 
---Donut Chart – Total quantity by vendor
+🍩 Donut Chart – Quantity by Vendor
 
---Bar Chart – Count of products purchased by customer
+📊 Bar Chart – Product Count by Customer
 
---Column Chart – Total quantity sold by product
-
---Slicer – Customer-wise filtering for interactive analysis
+📉 Column Chart – Quantity by Product
 
 #Business Objective
 
